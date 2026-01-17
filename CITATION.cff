@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "InFLOW OS™"
+message: "If you use this work, please cite it as below."
+type: software
+version: "1.0"
+abstract: >
+  InFLOW OS™ is an identity-led operating system designed for multi-passionate,
+  polymath leaders whose identity has outgrown their infrastructure. It enables
+  recursive architecture that scales complexity, unifies expression, and supports
+  sovereign, multi-profit ecosystems without burnout or self-betrayal.
+authors:
+  - family-names: Raske
+    given-names: Stacy
+repository-code: "https://github.com/stacyraske/inflow-os"
+url: "https://stacyraske.com/manifesto"
+keywords:
+  - identity-led systems
+  - recursive identity architecture
+  - polymath leadership
+  - sovereign structure
+  - inflowential
+  - operating system
+year: 2026
+license: MIT
