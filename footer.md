@@ -7,6 +7,7 @@ keywords:
   - inflowential
   - ecosystem-based scale
   - identity-led systems
+  - capacity architecture
 primary_link: https://stacyraske.com/manifesto
 framework_version: 1.0
 language: en
